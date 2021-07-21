@@ -14,7 +14,10 @@
     <name>git-demo</name>
     <description>Demo project for Spring Boot</description>
     <properties>
+<<<<<<< HEAD
 
+=======
+>>>>>>> f9d62f5 (add main)
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
